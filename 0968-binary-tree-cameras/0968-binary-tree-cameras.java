@@ -16,7 +16,7 @@
 class Solution {
     int count = 0;
     public int minCameraCover(TreeNode root) {
-        if(helper(root) == 0) count++;
+        if(helper(root)==0) count++;
         return count;
     }
 

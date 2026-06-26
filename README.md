@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/27Naman2004/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/27Naman2004/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Binary Tree
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/27Naman2004/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/27Naman2004/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Queue

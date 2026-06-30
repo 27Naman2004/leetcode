@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0091-decode-ways](https://github.com/27Naman2004/leetcode/tree/master/0091-decode-ways) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/27Naman2004/leetcode/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/27Naman2004/leetcode/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/27Naman2004/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
 ## Tree

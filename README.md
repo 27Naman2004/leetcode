@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/27Naman2004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/27Naman2004/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0896-monotonic-array](https://github.com/27Naman2004/leetcode/tree/master/0896-monotonic-array) |
+| [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Binary Search
 |  |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/27Naman2004/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/27Naman2004/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -129,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/27Naman2004/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

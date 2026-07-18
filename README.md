@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/27Naman2004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/27Naman2004/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
+| [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/27Naman2004/leetcode/tree/master/0496-next-greater-element-i) |
 | [0896-monotonic-array](https://github.com/27Naman2004/leetcode/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
@@ -31,12 +32,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/27Naman2004/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/27Naman2004/leetcode/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/27Naman2004/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/27Naman2004/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/27Naman2004/leetcode/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2596-check-knight-tour-configuration](https://github.com/27Naman2004/leetcode/tree/master/2596-check-knight-tour-configuration) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

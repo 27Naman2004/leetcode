@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/27Naman2004/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/27Naman2004/leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/27Naman2004/leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/27Naman2004/leetcode/tree/master/0088-merge-sorted-array) |
@@ -32,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/27Naman2004/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/27Naman2004/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/27Naman2004/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/27Naman2004/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/27Naman2004/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/27Naman2004/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/27Naman2004/leetcode/tree/master/0242-valid-anagram) |

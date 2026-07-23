@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/27Naman2004/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/27Naman2004/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/27Naman2004/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/27Naman2004/leetcode/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/27Naman2004/leetcode/tree/master/0437-path-sum-iii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/27Naman2004/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/27Naman2004/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/27Naman2004/leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/27Naman2004/leetcode/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/27Naman2004/leetcode/tree/master/0785-is-graph-bipartite) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/27Naman2004/leetcode/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/27Naman2004/leetcode/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/27Naman2004/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Stack
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/27Naman2004/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/27Naman2004/leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->

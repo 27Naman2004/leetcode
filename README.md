@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/27Naman2004/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/27Naman2004/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/27Naman2004/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/27Naman2004/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Divide and Conquer
 |  |

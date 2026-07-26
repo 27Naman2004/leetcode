@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/27Naman2004/leetcode/tree/master/0496-next-greater-element-i) |
+| [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/27Naman2004/leetcode/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/27Naman2004/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/27Naman2004/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
 ## Hash Table
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/27Naman2004/leetcode/tree/master/0070-climbing-stairs) |
+| [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/27Naman2004/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/27Naman2004/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/27Naman2004/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

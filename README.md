@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/27Naman2004/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/27Naman2004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0300-longest-increasing-subsequence](https://github.com/27Naman2004/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/27Naman2004/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/27Naman2004/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/27Naman2004/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/27Naman2004/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/27Naman2004/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/27Naman2004/leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/27Naman2004/leetcode/tree/master/0307-range-sum-query-mutable) |
 ## Binary Indexed Tree
 |  |

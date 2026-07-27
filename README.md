@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/27Naman2004/leetcode/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/27Naman2004/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/27Naman2004/leetcode/tree/master/2596-check-knight-tour-configuration) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/27Naman2004/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/27Naman2004/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |

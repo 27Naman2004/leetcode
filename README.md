@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/27Naman2004/leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/27Naman2004/leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/27Naman2004/leetcode/tree/master/0496-next-greater-element-i) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/27Naman2004/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/27Naman2004/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/27Naman2004/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Queue
 |  |
@@ -153,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/27Naman2004/leetcode/tree/master/0785-is-graph-bipartite) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/27Naman2004/leetcode/tree/master/2596-check-knight-tour-configuration) |

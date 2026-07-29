@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/27Naman2004/leetcode/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/27Naman2004/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/27Naman2004/leetcode/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/27Naman2004/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/27Naman2004/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Memoization

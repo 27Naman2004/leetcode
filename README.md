@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/27Naman2004/leetcode/tree/master/0896-monotonic-array) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
+| [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/27Naman2004/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/27Naman2004/leetcode/tree/master/0239-sliding-window-maximum) |
+| [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Monotonic Queue
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/27Naman2004/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/27Naman2004/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/27Naman2004/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/27Naman2004/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [2596-check-knight-tour-configuration](https://github.com/27Naman2004/leetcode/tree/master/2596-check-knight-tour-configuration) |
 ## Greedy
 |  |

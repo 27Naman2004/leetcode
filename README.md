@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/27Naman2004/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/27Naman2004/leetcode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/27Naman2004/leetcode/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/27Naman2004/leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/27Naman2004/leetcode/tree/master/0088-merge-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/27Naman2004/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/27Naman2004/leetcode/tree/master/0169-majority-element) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0079-word-search](https://github.com/27Naman2004/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/27Naman2004/leetcode/tree/master/0091-decode-ways) |
 | [0242-valid-anagram](https://github.com/27Naman2004/leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/27Naman2004/leetcode/tree/master/0079-word-search) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/27Naman2004/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/27Naman2004/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/27Naman2004/leetcode/tree/master/0200-number-of-islands) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/27Naman2004/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/27Naman2004/leetcode/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/27Naman2004/leetcode/tree/master/0307-range-sum-query-mutable) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/27Naman2004/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->

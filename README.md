@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/27Naman2004/leetcode/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/27Naman2004/leetcode/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1143-longest-common-subsequence](https://github.com/27Naman2004/leetcode/tree/master/1143-longest-common-subsequence) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/27Naman2004/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/27Naman2004/leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Sliding Window
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/27Naman2004/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/27Naman2004/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0968-binary-tree-cameras](https://github.com/27Naman2004/leetcode/tree/master/0968-binary-tree-cameras) |
+| [1143-longest-common-subsequence](https://github.com/27Naman2004/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Tree
 |  |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/27Naman2004/leetcode/tree/master/0127-word-ladder) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/27Naman2004/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

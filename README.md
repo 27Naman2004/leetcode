@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/27Naman2004/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/27Naman2004/leetcode/tree/master/0896-monotonic-array) |
+| [0904-fruit-into-baskets](https://github.com/27Naman2004/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/27Naman2004/leetcode/tree/master/0994-rotting-oranges) |
 | [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/27Naman2004/leetcode/tree/master/1109-corporate-flight-bookings) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/27Naman2004/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/27Naman2004/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/27Naman2004/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/27Naman2004/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/27Naman2004/leetcode/tree/master/3731-find-missing-elements) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/27Naman2004/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/27Naman2004/leetcode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0904-fruit-into-baskets](https://github.com/27Naman2004/leetcode/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
 | ------- |

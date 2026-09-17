@@ -2,16 +2,10 @@ class Solution {
     public boolean containsDuplicate(int[] nums) {
         int n = nums.length;
 
-        Map<Integer, Integer> map = new HashMap<>();
+        Arrays.sort(nums);
 
-        for(int i: nums){
-            map.put(i, map.getOrDefault(i, 0)+1);
-        }
-
-        for(int i: map.keySet()){
-            if(map.get(i) > 1){
-                return true;
-            }
+        for(int i=0;i<n-1;i++){
+            if(nums[i] == nums[i+1]) return true;
         }
         return false;
     }

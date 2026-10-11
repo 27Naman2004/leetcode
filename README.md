@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/27Naman2004/leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/27Naman2004/leetcode/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/27Naman2004/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/27Naman2004/leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/27Naman2004/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/27Naman2004/leetcode/tree/master/0628-maximum-product-of-three-numbers) |

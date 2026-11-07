@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/27Naman2004/leetcode/tree/master/1109-corporate-flight-bookings) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/27Naman2004/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/27Naman2004/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/27Naman2004/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/27Naman2004/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/27Naman2004/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/27Naman2004/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/27Naman2004/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/27Naman2004/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/27Naman2004/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/27Naman2004/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/27Naman2004/leetcode/tree/master/0455-assign-cookies) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/27Naman2004/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/27Naman2004/leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1094-car-pooling](https://github.com/27Naman2004/leetcode/tree/master/1094-car-pooling) |
 | [1288-remove-covered-intervals](https://github.com/27Naman2004/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/27Naman2004/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/27Naman2004/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/27Naman2004/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/27Naman2004/leetcode/tree/master/3731-find-missing-elements) |
